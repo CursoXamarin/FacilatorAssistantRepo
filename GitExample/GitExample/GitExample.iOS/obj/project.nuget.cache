@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbRKbI4NsI+ZsroUEBvw5Q1cOD6SizRpeDSgDsBUmC7++jmp49hpe1LbsF9K26INE4a7ZmQG20OS3boRNkTVRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Davis D'Leon\\Desktop\\XamarinPro\\FacilatorAssistantRepo\\GitExample\\GitExample\\GitExample.iOS\\GitExample.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
